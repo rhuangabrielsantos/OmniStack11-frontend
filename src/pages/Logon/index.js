@@ -35,7 +35,7 @@ function Logon () {
                 <img src={logo} alt="Be the Hero"/>
 
                 <form onSubmit={handleLogon}>
-                    <h1>Fça seu Logon</h1>
+                    <h1>Faça seu Logon</h1>
 
                     <input 
                         placeholder="Sua ID"
